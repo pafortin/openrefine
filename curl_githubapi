@@ -1,0 +1,1 @@
+'YOUR_USERNAME:API_TOKEN'+' https://api.github.com/users/'+cells['TwitterHandle'].value+' -H "Content-Type: application/json" > '+cells['TwitterHandle'].value+'.json'
